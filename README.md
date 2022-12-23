@@ -1,6 +1,6 @@
 # Version 4
 
-Version 4 of the Strapi project is available (here)[https://github.com/NoroffFEU/strapi-sp2-v4]
+Version 4 of the Strapi project is available [here](https://github.com/NoroffFEU/strapi-sp2-v4).
 
 # Strapi Project
 
